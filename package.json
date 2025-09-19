@@ -1,7 +1,7 @@
 {
-  "name": "sorgulamax-flight-search",
+  "name": "flight-search",
   "version": "1.0.0",
-  "description": "Sorgulamax.com flight search engine",
+  "description": "Modern Vue.js flight search engine",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

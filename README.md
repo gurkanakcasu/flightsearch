@@ -1,4 +1,4 @@
-# 🛫 Sorgulamax Flight Search
+# 🛫 Flight Search
 
 Modern Vue.js tabanlı uçuş arama uygulaması. Kullanıcıların uçuş biletlerini kolayca arayabileceği, responsive tasarıma sahip bir web uygulaması.
 
@@ -40,7 +40,7 @@ Bu proje **Vite** build tool kullanıyor ve şu işlemler için Node.js gerekiyo
 
 ```bash
 git clone <repository-url>
-cd sorgulamax-flight-search
+cd flight-search
 ```
 
 ### 2. Bağımlılıkları Yükleyin
@@ -105,7 +105,7 @@ src/
 Uygulama iki farklı ortam için konfigüre edilmiştir:
 
 - **Development**: `/api` (proxy üzerinden)
-- **Production**: `https://sorgulamax.com/api`
+- **Production**: `https://api.example.com`
 
 ### Environment Variables
 
@@ -242,7 +242,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Proje**: Sorgulamax Flight Search
+- **Proje**: Flight Search
 - **Versiyon**: 1.0.0
 - **Node.js**: v16+
 - **Vue.js**: v3.4+
